@@ -22,19 +22,7 @@
 
 I'm a **Senior Full Stack & ERP Developer** with hands-on experience delivering scalable business systems across **Egypt** and the **GCC**. I architect ERP platforms, automation pipelines, and AI-driven tools that turn complex operations into clean, reliable software.
 
-### 💻 CTO — Active Ventures
 
-<div align="center">
-
-| 🌍 | Project |
-|---|---|
-| 🇸🇦 | [sooqkplus.com](https://sooqkplus.com) |
-| 🇪🇬 | [furasmisr.com](https://furasmisr.com) |
-| 🇸🇪 | [nordicbizhub.com](https://nordicbizhub.com) |
-| 🇩🇯 | [diwanzakat.com](https://diwanzakat.com) |
-| 🇸🇦 | [samtahmedical.com](https://samtahmedical.com) |
-
-</div>
 
 ### 🛠️ Tech Arsenal
 
