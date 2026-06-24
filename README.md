@@ -45,25 +45,7 @@ class MohamedSalah:
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
 
-### 💻 CTO — Active Ventures
-
-<table>
-<tr><td>🇸🇦</td><td><a href="https://sooqkplus.com"><b>sooqkplus.com</b></a></td></tr>
-<tr><td>🇪🇬</td><td><a href="https://furasmisr.com"><b>furasmisr.com</b></a></td></tr>
-<tr><td>🇸🇪</td><td><a href="https://nordicbizhub.com"><b>nordicbizhub.com</b></a></td></tr>
-<tr><td>🇩🇯</td><td><a href="https://diwanzakat.com"><b>diwanzakat.com</b></a></td></tr>
-<tr><td>🇸🇦</td><td><a href="https://samtahmedical.com"><b>samtahmedical.com</b></a></td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
 
 ### 🛠️ Tech Arsenal
 
