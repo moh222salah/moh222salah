@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/moh222salah">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=I'm+MOHAMED+SALAH+%F0%9F%91%94;Senior+Full+Stack+%26+ERP+Developer;ERPNext+Architect+(Frappe+%2F+Python);Business+Automation+%26+AI+Systems+Builder;CTO+Across+Egypt+%26+the+GCC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello, I'm+MOHAMED+SALAH+%F0%9F%91%94;Senior+Full+Stack+%26+ERP+Developer;ERPNext+Architect+(Frappe+%2F+Python);Business+Automation+%26+AI+Systems+Builder;CTO+Across+Egypt+%26+the+GCC" alt="Typing SVG" />
 </a>
 
 <br/>
